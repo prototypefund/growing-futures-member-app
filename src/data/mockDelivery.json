@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Gro\u00dfer Anteil",
+        "type": "big",
+        "date": "2020-01-15T00:00:00.000Z",
+        "contents": [
+            {
+                "name": "Kartoffel",
+                "amount": 3,
+                "unit": "w",
+                "note": ""
+            },
+            {
+                "name": "Zuckerhut",
+                "amount": 1,
+                "unit": "p",
+                "note": "Bitte die gr\u00f6\u00dferen nehmen"
+            },
+            {
+                "name": "Gr\u00fcnkohl",
+                "amount": 1,
+                "unit": "w",
+                "note": ""
+            },
+            {
+                "name": "Hokkaido",
+                "amount": 1,
+                "unit": "p",
+                "note": ""
+            },
+            {
+                "name": "ENTWEDER Tomaten",
+                "amount": 0.65,
+                "unit": "w",
+                "note": "Entweder Tomaten ODER Mini-Tomaten"
+            },
+            {
+                "name": "ODER Mini-Tomaten",
+                "amount": 0.27,
+                "unit": "w",
+                "note": "Entweder Tomaten ODER Mini-Tomaten"
+            }
+        ]
+    },
+    {
+        "name": "Kleiner Anteil",
+        "type": "small",
+        "date": "2020-01-14T00:00:00.000Z",
+        "contents": [
+            {
+                "name": "Gr\u00fcnkohl",
+                "amount": 0.45,
+                "unit": "p",
+                "note": ""
+            },
+            {
+                "name": "Zuckerhut",
+                "amount": 1,
+                "unit": "p",
+                "note": ""
+            },
+            {
+                "name": "Kartoffel",
+                "amount": 1.5,
+                "unit": "w",
+                "note": ""
+            },
+            {
+                "name": "Brokkoli",
+                "amount": 1,
+                "unit": "p",
+                "note": ""
+            }
+        ]
+    }
+]
